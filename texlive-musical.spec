@@ -1,6 +1,6 @@
 Name:		texlive-musical
 Version:	54758
-Release:	1
+Release:	2
 Summary:	Typeset (musical) theatre scripts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/musical
