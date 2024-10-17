@@ -3,7 +3,7 @@ Version:	54758
 Release:	2
 Summary:	Typeset (musical) theatre scripts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/musical
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/musical
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/musical.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/musical.doc.r%{version}.tar.xz
